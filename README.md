@@ -43,7 +43,8 @@
 
 - 신용평가 프로젝트하면서 내 신용이 다른 친구들에 비해 낮은 거를 알았다. 왜 그럴까?
 
-
+- 유튜버 KPI 설정 
+   -> 유튜버들에게 도움되는 KPI 대시보드를 구현해보자
 
 (참조: 카일 스쿨
 https://github.com/zzsza/kyle-school/blob/master/notebooks/%EC%B9%B4%EC%9D%BC-%EC%8A%A4%EC%BF%A8-1%ED%9A%8C%EC%B0%A8-%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC-%EB%B0%8F-%EC%9D%BC-%EC%9E%98%ED%95%98%EA%B8%B0.ipynb.ipynb)
